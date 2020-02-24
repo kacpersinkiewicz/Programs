@@ -1,17 +1,17 @@
-Description:
+Description
 ===
 Simple algorithm that allows to segregate vectors of numerical data (temperature in this case). 
 More description are located in test file "tresc zadania.pdf" 
 
-Compile:
+Compile
 ===
 Use 'make' command to compile program using Makefile.
 
-Run:
+Run
 ===
-Use command ' ./result < stdin.txt ' after compile to run version specific for task.
+Use command  './result < stdin.txt' after compile to run version specific for task.
 
-Description of txt file:
+Description of txt file
 ===
 The txt file was built in following way:
 
