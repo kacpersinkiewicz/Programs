@@ -24,8 +24,8 @@ int main()
     cin >> kid_count; // load number of children
 
     vector<vector<int>> measures;
-    vector<int> current; // compleate data gathered by one child
-    current.push_back(1); // the girl has index number of 1
+    vector<int> current; // complete data gathered by one child
+    current.push_back(1); // first data allocated in the vector are index numbers of children
 
     for (int i = 0; i < measure_count; i++) 
     {
