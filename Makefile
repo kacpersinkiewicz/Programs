@@ -1,3 +1,3 @@
 all:
-	g++ pomiary.cpp -o resoult
+	g++ pomiary.cpp -o result
 
