@@ -14,9 +14,9 @@ Use command './result < stdin.txt' after compile to run version specific for tas
 Description of txt file:
 ===
 The txt file was built in following way:
-5 8           
-4 2 1 7 3 
-3 6 
+5 8
+4 2 1 7 3
+3 6
 1 2
 2 5
 5 5
