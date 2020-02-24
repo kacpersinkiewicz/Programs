@@ -14,17 +14,25 @@ Use command './result < stdin.txt' after compile to run version specific for tas
 Description of txt file:
 ===
 The txt file was built in following way:
+
 5 8
 
 4 2 1 7 3
 
 3 6
+
 1 2
+
 2 5
+
 5 5
+
 1 5
+
 1 4
+
 1 5
+
 - first number is number of measurements, second number is number of all children.
 - second line defines all measurements that was made by the only child, who done his task completly.
 - third and all next lines defines the data of other children. 
