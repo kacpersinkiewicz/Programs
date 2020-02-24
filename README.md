@@ -9,7 +9,7 @@ Use 'make' command to compile program using Makefile.
 
 Run:
 ===
-Use command './result < stdin.txt' after compile to run version specific for task.
+Use command ' ./result < stdin.txt ' after compile to run version specific for task.
 
 Description of txt file:
 ===
